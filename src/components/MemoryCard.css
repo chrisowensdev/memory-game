@@ -54,3 +54,10 @@
     width: 100%;
     padding-top: 13px;
 }
+
+@media screen and (max-width: 360px) {
+    .MemoryCard {
+        width: 75px;
+        height: 40px;
+    }
+}
